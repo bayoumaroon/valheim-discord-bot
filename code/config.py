@@ -7,6 +7,9 @@ file = '/abs/path/to/ur/vhslog.txt'
 
 BOT_TOKEN = "YourBotToken1337"
 
+#sqlite DB
+DATABASE = "sqlite db name"
+
 # Make sure are seen between server and script host
 SERVER_ADDRESS = ("ur.ip.add.ress",PORT)
 
